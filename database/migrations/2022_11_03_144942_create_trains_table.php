@@ -25,7 +25,7 @@ class CreateTrainsTable extends Migration
             $table->id();
             $table->id();
 
-            Azienda
+          /*  Azienda
            Stazione di partenza
      Stazione di arrivo
 Orario di partenza
@@ -34,7 +34,7 @@ Codice Treno
 Numero Carrozze
 In orario
 Cancellato
-
+*/
         });
     }
 
